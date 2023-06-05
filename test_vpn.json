@@ -1,6 +1,6 @@
 {
 	"vpn": {
-		"activate_vpn": "true",
+		"activate_vpn": "false",
 		"vpn_username": "ncpmariyabtk@namecheap",
 		"vpn_password": "70XLmM8TRh",
 		"retry_vpn_counter": 2,
